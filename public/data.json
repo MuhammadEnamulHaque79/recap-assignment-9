@@ -1,0 +1,31 @@
+[
+    {
+      "company": "Acme Inc.",
+      "title": "Software Engineer",
+      "type": "Full-time",
+      "location": "San Francisco, CA",
+      "salary": "$120,000 - $150,000"
+    },
+    {
+      "company": "Globex Corporation",
+      "title": "Marketing Manager",
+      "type": "Full-time",
+      "location": "New York, NY",
+      "salary": "$80,000 - $100,000"
+    },
+    {
+      "company": "XYZ Enterprises",
+      "title": "Customer Support Representative",
+      "type": "Part-time",
+      "location": "Los Angeles, CA",
+      "salary": "$20 - $25 per hour"
+    },
+    {
+      "company": "BigCo LLC",
+      "title": "Data Analyst",
+      "type": "Contract",
+      "location": "Chicago, IL",
+      "salary": "$50 - $60 per hour"
+    }
+  ]
+  
